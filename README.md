@@ -2,7 +2,7 @@
 
 A React app that loads a list of users from an API and shows each one as a robot card. Type in the search box to filter the robots by name as you type.
 
-**Live demo:** https://the-codingphoenix.github.io/RobotFriends/
+**Live demo:** https://melissabuie.github.io/RobotFriends/
 
 <!-- Add a screenshot: save one as public/screenshot.png and uncomment the next line -->
 <!-- ![RoboFriends screenshot](public/screenshot.png) -->
@@ -30,7 +30,7 @@ A React app that loads a list of users from an API and shows each one as a robot
 ## Run it locally
 
 ```bash
-git clone https://github.com/the-codingphoenix/RobotFriends.git
+git clone https://github.com/MelissaBuie/RobotFriends.git
 cd RobotFriends
 npm install
 npm start
